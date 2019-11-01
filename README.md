@@ -4,6 +4,7 @@ Binds .ini files to lua metatables
 Requires https://github.com/Dynodzzo/Lua_INI_Parser/blob/master/LIP.lua 
 
 default.ini - r/o config. Put your default settings here
+
 config.ini - r/w config, overrides preferences from default.ini
 
 Example:
